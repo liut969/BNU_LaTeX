@@ -6,5 +6,5 @@
 ![](https://github.com/liut969/BNU_LaTeX/blob/main/image.jpg)
 - 更多问题，请参考[链接](http://gerry.lamost.org/blog/?p=811)
 ### 主要参考
-- [LaTeX模板](http://gerry.lamost.org/blog/?p=811)
-- [TexLive 2009](ftp://tug.org/historic/systems/texlive/2009/)
+- LaTeX模板: [http://gerry.lamost.org/blog/?p=811](http://gerry.lamost.org/blog/?p=811)
+- TexLive 2009: [ftp://tug.org/historic/systems/texlive/2009/](ftp://tug.org/historic/systems/texlive/2009/)
